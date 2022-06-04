@@ -12,6 +12,13 @@ body{
 }
 
 
+.all{
+    margin-left: 50px;
+}
+
+.names{
+    margin-left: 100px;
+}
 /* ------------------  Register Page ------------------ */
 
 #form-container{
